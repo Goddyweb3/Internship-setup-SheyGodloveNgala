@@ -1,1 +1,2 @@
 This repository documents my Github learning journey.
+Learning version control is an essential developer skill.
